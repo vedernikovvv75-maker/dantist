@@ -1,0 +1,17 @@
+# Токен бота от @BotFather
+BOT_TOKEN=8675660414:AAF4xBnO1valz8xVlfQmcDSCgz3jDoWXC6o
+
+# ID администратора (опционально, для /stats)
+ADMIN_ID=2128971944
+
+# Путь к файлу SQLite (по умолчанию bot.db в корне проекта)
+# DATABASE_PATH=bot.db
+
+# Телефон клиники для экстренных случаев (круглосуточная линия)
+# CLINIC_PHONE=+79001234567
+
+# URL сайта клиники (для кнопок «Читать отзывы на сайте» и т.д.)
+# SITE_URL=https://ulybka-plus.example.com
+
+# Демо: разрешить переключение ролей /patient и /owner (true/false). Для продакшена — false.
+# DEMO_SWITCH_ENABLED=true

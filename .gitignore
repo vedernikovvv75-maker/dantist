@@ -1,0 +1,13 @@
+# Environment and secrets (use EnvExample)
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Local SQLite database
+*.db
